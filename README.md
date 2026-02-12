@@ -1,4 +1,4 @@
-🤖 Multi-Agent Research & Reporting Team
+<h1>🤖 Multi-Agent Research & Reporting Team</h1>  
 This project implements a Multi-Agent AI Team that functions as a virtual research department. It utilizes a "Straight Line" (Sequential) workflow where specialized AI agents perform high-level work—from live web searching to executive report synthesis—without human intervention.
 🏢 The "Employee" Architecture
 Unlike a standard chatbot, this system uses a Sequential Process where the output of one professional agent becomes the input for the next.
