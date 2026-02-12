@@ -1,7 +1,7 @@
 <h1>🤖 Multi-Agent Research & Reporting Team</h1>  
-This project implements a Multi-Agent AI Team that functions as a virtual research department. It utilizes a "Straight Line" (Sequential) workflow where specialized AI agents perform high-level work—from live web searching to executive report synthesis—without human intervention.
-🏢 The "Employee" Architecture
-Unlike a standard chatbot, this system uses a Sequential Process where the output of one professional agent becomes the input for the next.
+<h2>This project implements a Multi-Agent AI Team that functions as a virtual research department. It utilizes a "Straight Line" (Sequential) workflow where specialized AI agents perform high-level work—from live web searching to executive report synthesis—without human intervention.</h2>
+<h3>🏢 The "Employee" Architecture</h3>  
+<b>Unlike a standard chatbot, this system uses a Sequential Process where the output of one professional agent becomes the input for the next.
 🕵️‍♂️ Agent 1: The Lead Researcher
 Role: Senior Market Research Analyst
 Responsibility: Browses the live web using the Tavily AI search engine.
@@ -17,7 +17,7 @@ Framework: CrewAI (Orchestration)
 Brain: OpenAI GPT-4o / Claude 3.5 Sonnet
 Eyes: Tavily AI (Search API optimized for LLMs)
 Language: Python 3.12
-🛠️ Setup & Installation
+🛠️ Setup & Installation</b>
 1. Clone the Repository
 code
 Bash
