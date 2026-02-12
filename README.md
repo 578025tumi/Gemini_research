@@ -18,6 +18,7 @@ Brain: OpenAI GPT-4o / Claude 3.5 Sonnet
 Eyes: Tavily AI (Search API optimized for LLMs)
 Language: Python 3.12
 🛠️ Setup & Installation</b>
+</br>
 1. Clone the Repository
 code
 Bash
