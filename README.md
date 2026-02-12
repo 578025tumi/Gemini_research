@@ -24,10 +24,12 @@ code
 Bash
 git clone https://github.com/YOUR_USERNAME/research-team-ai.git
 cd research-team-ai
+</br>
 2. Install Dependencies
 code
 Bash
 pip install -r requirements.txt
+</br>
 3. Environment Configuration
 Create a .env file in the root directory and add your API keys:
 code
@@ -35,6 +37,7 @@ Text
 OPENAI_API_KEY=your_openai_key_here
 TAVILY_API_KEY=your_tavily_key_here
 (Note: The .env file is ignored by git to keep your keys secure.)
+</br>
 📈 Usage
 To start the research project, run:
 code
